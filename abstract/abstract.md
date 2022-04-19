@@ -26,6 +26,8 @@ Data in the Earth System Grid Federation (ESGF) for Climate Model
  data available. While the initial target would be high resolution precipitation data it could be extended to other 
  model targets like storm mode, winds, etc...
  
+ Ian: Not sure if kosher to add comments, but how about topography as an input? And see https://gmd.copernicus.org/articles/14/6355/2021/. 
+ 
  
  (Google et al 2022) https://colab.research.google.com/github/tg-bomze/Face-Depixelizer/blob/master/Face_Depixelizer_Eng.ipynb
  (Serifi et al 2021) Spatio-Temporal Downscaling of Climate Data Using Convolutional and Error-Predicting Neural Networks https://www.frontiersin.org/articles/10.3389/fclim.2021.656479/full
