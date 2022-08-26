@@ -26,3 +26,12 @@ The notebooks are listed below:
 5. [`combining-models.ipynb`](/notebooks/combining-models.ipynb)
     1. This notebook combines all the models from the previous 3 notebooks into one model, and runs evaluation on the dataset
     2. We find this to give very good results (much better than going straight from 5 to 32)
+
+## Papers used
+
+1. https://arxiv.org/pdf/1703.03126.pdf
+    1. Used for the basic structure of the stacking model
+2. https://arxiv.org/pdf/1501.00092.pdf
+    1. Used for benchmarking our results
+3. https://openaccess.thecvf.com/content_ICCV_2017/papers/Tong_Image_Super-Resolution_Using_ICCV_2017_paper.pdf
+    1. Used for benchmarking our results
